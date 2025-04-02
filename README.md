@@ -1,5 +1,12 @@
 # Campaign-App
+
 This repository contains an application that enables sellers to create, edit, and delete individual campaigns for each product they intend to sell. The app provides a user-friendly interface for managing campaigns, allowing sellers to efficiently handle advertising details such as bids, keywords, and targeted locations.
+
+**Before you start, make sure you have the following installed:**
+- **JDK version 21**
+- **Maven**
+- **Node.js**
+- **npm**
 
 ## Technologies Used:
 
